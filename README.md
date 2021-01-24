@@ -14,7 +14,7 @@ Providing connection between skilled man power and the farmer.
 - GIS included
 - Farmers don't need to have an account
 - Open-source 
-- Subscription 
+-  subscription alert to avoid unexpected climate change crisis 
 
 # Technologies used
 - CSS/HTML/bootstrap for the front-end
