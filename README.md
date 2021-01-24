@@ -19,4 +19,6 @@ Providing connection between skilled man power and the farmer.
 # Technologies used
 - CSS/HTML/bootstrap for the front-end
 - laravel and mysql for the back-end
-if you interested in contributing make sure you have read our documentation and detailed explanation of the the problem [here](https://docs.google.com/document/d/1gDSU1JXv6srPCstIh6OJU7uFp4Ifl8OxIeRuXGqD8hc/edit#heading=h.rigo96xw2rmo "google doc") 
+# Contributing guidelines
+* if you interested in contributing make sure you have read our documentation and detailed explanation of the the problem [here](https://docs.google.com/document/d/1gDSU1JXv6srPCstIh6OJU7uFp4Ifl8OxIeRuXGqD8hc/edit#heading=h.rigo96xw2rmo "google doc") 
+* Then fork the project then work on it after completing a feature open a pull request we will review your code and if it is compatable we will merg
